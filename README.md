@@ -48,9 +48,9 @@ B.S., Computer Engineering, Sungkyul University, Korea, Feb.2021 (Summa Cum Laud
 #### [2020]
 - 대학생 논문 경진대회 동상 수상 : AI를 활용한 전자출결 시스템 개선 방안 연구, 한국디지털콘텐츠학회
 
-
+<!--
 ### 📁 RESEARCH EXPERIENCES
-
+-->
 
 ### 💻 SKILLS AND TECHNIQUES
 
