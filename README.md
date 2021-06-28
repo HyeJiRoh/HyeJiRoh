@@ -1,13 +1,13 @@
 # Hyeji Roh 😊
 
-### ✨RESEARCH INTERESTS
+## ✨RESEARCH INTERESTS
 - IoT(Internet of Things)
 - 5G
 - Embedded System
 - Deep Learning
 
 ### 🎓 EDUCATION
-B.S., Computer Engineering, Sungkyul University, Korea, Feb.2021 (Summa Cum Laude graduation)
+- B.S., Computer Engineering, Sungkyul University, Korea, Feb.2021 (Summa Cum Laude graduation)
 
 
 ### 📄 PUBLICATIONS (SCIE/ESCI)
