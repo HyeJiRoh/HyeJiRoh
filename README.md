@@ -40,7 +40,7 @@ B.S., Computer Engineering, Sungkyul University, Korea, Feb.2021 (Summa Cum Laud
 - 2018년 성결대학교 프로젝트 경진대회 우수상 수상 : 혼자 밥먹는 사람이 같이 먹을 사람을 찾기 위한 앱 제안
 
 
-####🥇AWARDS AND HONORS 
+#### 🥇AWARDS AND HONORS 
 ##### [2021]
 - 총장 표창장 수상 : 전체 수석 졸업, 성결대학교
 - 총장 표창장 수상 : SCIE급 논문 게재, 성결대학교
