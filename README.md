@@ -24,20 +24,20 @@
 
 ### 💻 PROJECTS
 #### [Simple Project]
-- 구글 Assistant를 활용한 AI 스피커 제작
-- 구글 Assistant를 활용한 Smart Mirror 제작
-- WAT-ms101 sensor, GM5537-1 sensor를 적용한 Smart Pot 제작
-- Object Detection API를 활용한 침입 감지 시스템 제작
+- 2019, 구글 Assistant를 활용한 AI 스피커 제작
+- 2019, 구글 Assistant를 활용한 Smart Mirror 제작
+- 2019, WAT-ms101 sensor, GM5537-1 sensor를 적용한 Smart Pot 제작
+- 2018, Object Detection API를 활용한 침입 감지 시스템 제작
 
 #### [Project based on Network]
-- Raspberry Pi 기반의 스트리밍 서버 제작
-- Java 기반의 채팅 서버 및 클라이언트 프로그램 제작
-- 창의적 종합 설계 경진대회 창의상 수상 : C# 기반의 통신 서버 1인 개발 담당
+- 2020, Raspberry Pi 기반의 스트리밍 서버 제작
+- 2020, Java 기반의 채팅 서버 및 클라이언트 프로그램 제작
+- 2020, 창의적 종합 설계 경진대회 창의상 수상 : C# 기반의 통신 서버 1인 개발 담당
 
 #### [Projects related to maximizing the value of a personalized society]
-- 2019년 성균관대학교 CO2ECT 대회 장려상 수상 : Openpose를 사용한 알약 공급 자동화 시스템 제작
-- 2019년 성결대학교 프로젝트 경진대회 우수상 수상 : 노인의 스마트폰 사용을 돕기 위한 UI 서비스 제안
-- 2018년 성결대학교 프로젝트 경진대회 우수상 수상 : 혼자 밥먹는 사람이 같이 먹을 사람을 찾기 위한 앱 제안
+- 2019, 성균관대학교 CO2ECT 대회 장려상 수상 : Openpose를 사용한 알약 공급 자동화 시스템 제작
+- 2019, 성결대학교 프로젝트 경진대회 우수상 수상 : 노인의 스마트폰 사용을 돕기 위한 UI 서비스 제안
+- 2018, 성결대학교 프로젝트 경진대회 우수상 수상 : 혼자 밥먹는 사람이 같이 먹을 사람을 찾기 위한 앱 제안
 
 
 ### 🥇AWARDS AND HONORS 
