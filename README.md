@@ -1,4 +1,4 @@
-## Hyeji Roh
+# Hyeji Roh 😊
 
 ### ✨RESEARCH INTERESTS
 - IoT(Internet of Things)
