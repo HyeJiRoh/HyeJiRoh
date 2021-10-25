@@ -14,7 +14,7 @@
 
 
      
-### 📄 PUBLICATIONS (SCIE/ESCI)
+### 📄 PUBLICATIONS (SCIE)
 - Hyeji Roh, Seulgi Shin, Jinseo Han, Sangsoon Lim, A deep learning-based medication behavior monitoring system[J]. Mathematical Biosciences and Engineering, 2021, 18(2): 1513-1528. doi: 10.3934/mbe.2021078 
      
      
