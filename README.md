@@ -16,7 +16,7 @@
      
 ### 📄 PUBLICATIONS (SCIE)
 - Hyeji Roh, Seulgi Shin, Jinseo Han, Sangsoon Lim, A deep learning-based medication behavior monitoring system[J]. Mathematical Biosciences and Engineering, 2021, 18(2): 1513-1528. doi: 10.3934/mbe.2021078 
-<\> : 본 논문은 OpenPose를 통해 사람의 행동을 인식하여 알약 복용 여부를 파악하는 시스템을 직접 설계하고 실험에 대한 결과를 다룸. Dispenser를 직접 설계하여 하루 단위로 알약을 제공하고, 사람의 움직임을 통해 카메라를 작동시켜 사용자의 동작을 인식하여 물 마시는 행위를 기반으로 알약 복용 정보를 저장함. 해당 시스템을 통해 알약 복용 여부 관리가 어려운 노인과 환자들의 불편함을 해소하기 위해 설계하였음. 
+&nbsp : 본 논문은 OpenPose를 통해 사람의 행동을 인식하여 알약 복용 여부를 파악하는 시스템을 직접 설계하고 실험에 대한 결과를 다룸. Dispenser를 직접 설계하여 하루 단위로 알약을 제공하고, 사람의 움직임을 통해 카메라를 작동시켜 사용자의 동작을 인식하여 물 마시는 행위를 기반으로 알약 복용 정보를 저장함. 해당 시스템을 통해 알약 복용 여부 관리가 어려운 노인과 환자들의 불편함을 해소하기 위해 설계하였음. 
 
 
 - Hyeji Roh, Sheungmin Oh, Hajun Song, Jinseo Han, Sangsoon Lim, Deep Learning-based wireless signal classification in heterogeneous IoT environment, 2021, Computers, Materials & Continua 2021년 10월 제출 
