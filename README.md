@@ -91,8 +91,6 @@
 - C
 - Python
 - C++
-- C#
-
 
 #### [Raspberry Pi]
 
