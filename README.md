@@ -10,18 +10,18 @@
 
 ### 🎓 EDUCATION
 - B.S., Computer Engineering, Sungkyul University, Korea, Feb.2021 (Summa Cum Laude)
-
+<br/>
 
 
      
 ### 📄 PUBLICATIONS (SCIE)
-- Hyeji Roh, Seulgi Shin, Jinseo Han, Sangsoon Lim, A deep learning-based medication behavior monitoring system[J]. Mathematical Biosciences and Engineering, 2021, 18(2): 1513-1528. doi: 10.3934/mbe.2021078    
+- Hyeji Roh, Seulgi Shin, Jinseo Han, Sangsoon Lim, A deep learning-based medication behavior monitoring system. Mathematical Biosciences and Engineering, 2021, 18(2): 1513-1528. doi: 10.3934/mbe.2021078    
 : 본 논문은 OpenPose를 통해 사람의 행동을 인식하여 알약 복용 여부를 파악하는 시스템을 직접 설계하고 실험에 대한 결과를 다룸. Dispenser를 직접 설계하여 하루 단위로 알약을 제공하고, 사람의 움직임을 통해 카메라를 작동시켜 사용자의 동작을 인식하여 물 마시는 행위를 기반으로 알약 복용 정보를 저장함. 해당 시스템을 통해 알약 복용 여부 관리가 어려운 노인과 환자들의 불편함을 해소하기 위해 설계하였음. 
 
 
-- Hyeji Roh, Sheungmin Oh, Hajun Song, Jinseo Han, Sangsoon Lim, Deep Learning-based wireless signal classification in heterogeneous IoT environment, 2022, Computers, Materials & Continua    
+- Hyeji Roh, Sheungmin Oh, Hajun Song, Jinseo Han, Sangsoon Lim, Deep Learning-based Wireless Signal Classification in the IoT Environment, CMC-Computers, Materials & Continua, 2022, 71(3), 5717–5732. doi: 10.32604/cmc.2022.024135
 : 본 논문은 CNN(Convolution Neural Network)을 통해 정해진 크기의 입력값을 기반으로 정해진 크기의 출력값을 도출하고, LSTM(Long Short Term Memory)의 3개의 gate를 통해 가중치를 두어 계산하여 RNN(Recurrent Neural Network)의 장기 의존성 문제를 완화하여 무선 신호에 대한 중요한 정보만을 기억하도록 설계하였으며, 최종적으로 Attention Mechanism을 통해 매 시점에 무선 신호 분류에 대한 중요한 영향을 미치는 부분만을 선택적으로 학습할 수 있도록 설계한 시스템을 다룸. 
-     
+<br/>
      
      
 ### 📄 PUBLICATIONS (DOMESTIC)
@@ -33,7 +33,8 @@
 
 - 한진서, 노혜지, 임상순, 스마트 캠퍼스 강의실 내 무선 환경 측정 및 분석 연구, 한국 멀티미디어 학회, 2019    
 : 본 논문은 대학교 내의 여러 강의실의 무선 환경을 측정하기 위해 Contiki 환경을 기반으로 TelosB를 사용하였으며, 강의실 내의 유동인구에 따라 변하는 무선 환경에 대한 데이터를 분석한 결과를 다룸. 
-   
+<br/>
+
    
 ### 💻 PROJECTS
 #### [Simple Project]
@@ -53,7 +54,7 @@
 - 2019, Openpose를 사용한 알약 공급 자동화 시스템 제작
 - 2019, 노인의 스마트폰 사용을 돕기 위한 UI 서비스 제안
 - 2018, 취미를 공유할 사람을 찾기 위한 앱 제안
-   
+<br/>   
    
    
 ### 🥇AWARDS AND HONORS    
@@ -83,7 +84,7 @@
 <!--
 ### 📁 RESEARCH EXPERIENCES
 -->
-
+<br/>
 
 
 ### 💻 SKILLS AND TECHNIQUES   
@@ -104,12 +105,12 @@
 ### PATENTS
 
 -->
-   
+<br/>   
    
    
 <!---### ✒️ BLOG
 <https://spero-spera.tistory.com/>--->
-   
+ <br/>  
    
    
 ### ✉️ EMAIL
