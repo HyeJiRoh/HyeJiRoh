@@ -5,7 +5,7 @@
 - 5G
 - Embedded System
 - Deep Learning
-
+<br/>
 
 
 ### 🎓 EDUCATION
@@ -110,8 +110,10 @@
    
 ### ✒️ BLOG
 <https://spero-spera.tistory.com/>
- <br/>  
+<br/>  
    
+   
+<br/>
    
 ### ✉️ EMAIL
 shgpwl509@gmail.com
