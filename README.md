@@ -1,4 +1,12 @@
 # Hyeji Roh 😊
+### CAREER
+펀엔씨(2021.11~)
+
+### 💻 SKILLS AND TECHNIQUES   
+#### [Programming]
+- JavaScript
+- React
+- Python
 
 ### ✨RESEARCH INTERESTS
 - IoT(Internet of Things)
@@ -85,19 +93,6 @@
 ### 📁 RESEARCH EXPERIENCES
 -->
 <br/>
-
-
-### 💻 SKILLS AND TECHNIQUES   
-#### [Programming]
-- C
-- Python
-- C++
-
-#### [Raspberry Pi]
-
-
-#### [Arduino]
-
 
 <!--### CONFERENCES
 
