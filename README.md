@@ -1,6 +1,6 @@
 # Hyeji Roh 😊
-### CAREER
-펀엔씨(2021.11~)
+### 📄 CAREER
+## 펀엔씨(2021.11~)
 
 ### 💻 SKILLS AND TECHNIQUES   
 #### [Programming]
