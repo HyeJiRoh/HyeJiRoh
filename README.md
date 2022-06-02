@@ -2,6 +2,8 @@
 <br/>
 
 
+### 🏢 CAREER
+#### 펀엔씨
 펀엔씨 사내 Data Warehouse 구축
 2021.11~2022.02
 
@@ -9,8 +11,8 @@
 2022.02~2022.04
 
 React 웹 개발
-2022.04~  
-
+2022.04~    
+  
 
 ### 💻 SKILLS AND TECHNIQUES   
 #### [Programming]
