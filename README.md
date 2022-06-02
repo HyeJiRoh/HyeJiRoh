@@ -11,10 +11,9 @@
 2022.02~2022.04
 
 React 웹 개발
-2022.04~    
+2022.04~2022.06
 
 
-  
 
 ### 💻 SKILLS AND TECHNIQUES   
 #### [Programming]
