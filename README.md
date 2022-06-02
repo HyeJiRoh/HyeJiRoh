@@ -9,6 +9,7 @@
 
 React 웹 개발
 2022.04~
+<br/>
 
 
 ### 💻 SKILLS AND TECHNIQUES   
@@ -16,6 +17,7 @@ React 웹 개발
 - JavaScript
 - React
 - Python
+<br/>
 
 ### ✨RESEARCH INTERESTS
 - IoT(Internet of Things)
