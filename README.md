@@ -1,4 +1,6 @@
 # Hyeji Roh 😊
+<br/>
+
 ### 🏢 CAREER
 ## 펀엔씨(2021.11~)
 펀엔씨 사내 Data Warehouse 구축
@@ -9,8 +11,6 @@
 
 React 웹 개발
 2022.04~
-<br/>
-<br/>
 
 
 
