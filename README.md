@@ -1,16 +1,5 @@
-# Hyeji Roh 😊
-<br/>
 
-
-### 🏢 CAREER
-#### 펀엔씨 (2021.11~)
-
-- 펀엔씨 사내 Data Warehouse 구축 2021.11~2022.02
-
-- 추천검색어 api 개발 2022.02~2022.04
-
-- React 웹 개발 2022.04~
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=fcdef7&height=320&section=header&text=hyejiRoh&fontSize=80" />
 
 
 ### 💻 SKILLS AND TECHNIQUES   
@@ -23,13 +12,30 @@
 
 <br/>
 
-### ✨RESEARCH INTERESTS
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeJiRoh&layout=compact)](https://github.com/HyeJiRoh/github-readme-stats)
+ -->
+![Hyeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeji&show_icons=true&theme=dracula)
+
+<br/>
+
+<!-- ### ✨RESEARCH INTERESTS
 - IoT(Internet of Things)
 - 5G
 - Embedded System
 - Deep Learning
 <br/>
+ -->
+### 🏢 CAREER
+#### 펀엔씨 (2021.11~)
 
+- React 웹 개발 2022.04~
+
+- 추천검색어 api 개발 2022.02~2022.04
+
+- 펀엔씨 사내 Data Warehouse 구축 2021.11~2022.02
+
+
+<br/>
 
 ### 🎓 EDUCATION
 - B.S., Computer Engineering, Sungkyul University, Korea, Feb.2021 (Summa Cum Laude)
@@ -109,14 +115,6 @@
 -->
 <br/>
 
-<!--### CONFERENCES
-
-
-### PATENTS
-
--->
-<br/>   
-   
    
 ### ✒️ BLOG
 <https://spero-spera.tistory.com/>
