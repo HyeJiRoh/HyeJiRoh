@@ -14,7 +14,6 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeJiRoh&layout=compact)](https://github.com/HyeJiRoh/github-readme-stats)
  -->
-![Hyeji's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hyeji&show_icons=true&theme=dracula)
 
 <br/>
 
