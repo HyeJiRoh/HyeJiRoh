@@ -45,23 +45,28 @@
 
      
 ### 📄 PUBLICATIONS (SCIE)
-- Hyeji Roh, Seulgi Shin, Jinseo Han, Sangsoon Lim, A deep learning-based medication behavior monitoring system. Mathematical Biosciences and Engineering, 2021, 18(2): 1513-1528. doi: 10.3934/mbe.2021078    
+1_ Hyeji Roh, Seulgi Shin, Jinseo Han, Sangsoon Lim, A deep learning-based medication behavior monitoring system. Mathematical Biosciences and Engineering, 2021, 18(2): 1513-1528. doi: 10.3934/mbe.2021078    
+
 : 본 논문은 OpenPose를 통해 사람의 행동을 인식하여 알약 복용 여부를 파악하는 시스템을 직접 설계하고 실험에 대한 결과를 다룸. Dispenser를 직접 설계하여 하루 단위로 알약을 제공하고, 사람의 움직임을 통해 카메라를 작동시켜 사용자의 동작을 인식하여 물 마시는 행위를 기반으로 알약 복용 정보를 저장함. 해당 시스템을 통해 알약 복용 여부 관리가 어려운 노인과 환자들의 불편함을 해소하기 위해 설계하였음. 
 
 
-- Hyeji Roh, Sheungmin Oh, Hajun Song, Jinseo Han, Sangsoon Lim, Deep Learning-based Wireless Signal Classification in the IoT Environment, CMC-Computers, Materials & Continua, 2022, 71(3), 5717–5732. doi: 10.32604/cmc.2022.024135
+2_ Hyeji Roh, Sheungmin Oh, Hajun Song, Jinseo Han, Sangsoon Lim, Deep Learning-based Wireless Signal Classification in the IoT Environment, CMC-Computers, Materials & Continua, 2022, 71(3), 5717–5732. doi: 10.32604/cmc.2022.024135
+
 : 본 논문은 CNN(Convolution Neural Network)을 통해 정해진 크기의 입력값을 기반으로 정해진 크기의 출력값을 도출하고, LSTM(Long Short Term Memory)의 3개의 gate를 통해 가중치를 두어 계산하여 RNN(Recurrent Neural Network)의 장기 의존성 문제를 완화하여 무선 신호에 대한 중요한 정보만을 기억하도록 설계하였으며, 최종적으로 Attention Mechanism을 통해 매 시점에 무선 신호 분류에 대한 중요한 영향을 미치는 부분만을 선택적으로 학습할 수 있도록 설계한 시스템을 다룸. 
 <br/>
      
      
 ### 📄 PUBLICATIONS (DOMESTIC)
-- 노혜지, 신슬기, 임상순, AI를 활용한 전자출결 시스템 개선 방안 연구, 한국디지털콘텐츠학회, 2020, [대학생 논문 경진대회 동상 수상]    
+1_ 노혜지, 신슬기, 임상순, AI를 활용한 전자출결 시스템 개선 방안 연구, 한국디지털콘텐츠학회, 2020, [대학생 논문 경진대회 동상 수상]    
+
 : 본 논문은 AP 기반의 전자출결 시스템을 통해 데이터를 수집하여 클러스터링을 통해 비교하는 연구를 다룸. 본 논문에서 다룬 시스템은 AP 기반의 전자출결 시스템을 새로 설계한 application을 통해 Beacon과 AP의 신호를 측정하여 강의실 내에 있는지 파악할 수 있도록 하였으며, Clustering과 Decision Tree를 바탕으로 수집한 데이터를 분석한 결과를 다룸. 
  
-- 노혜지, 한진서, 임상순, 주변 환경 인지 기반 지능형 식물 관리 시스템, 한국 멀티미디어 학회, 2019    
+2_ 노혜지, 한진서, 임상순, 주변 환경 인지 기반 지능형 식물 관리 시스템, 한국 멀티미디어 학회, 2019    
+
 : 본 논문은 기존에 사용되던 화분에 센서를 부착하여 토양의 습도와 주변의 온도, 조도를 파악하여 식물이 자라기 위한 최적의 조건을 만족시키는 자동화 시스템을 다룸. 
 
-- 한진서, 노혜지, 임상순, 스마트 캠퍼스 강의실 내 무선 환경 측정 및 분석 연구, 한국 멀티미디어 학회, 2019    
+3_ 한진서, 노혜지, 임상순, 스마트 캠퍼스 강의실 내 무선 환경 측정 및 분석 연구, 한국 멀티미디어 학회, 2019    
+
 : 본 논문은 대학교 내의 여러 강의실의 무선 환경을 측정하기 위해 Contiki 환경을 기반으로 TelosB를 사용하였으며, 강의실 내의 유동인구에 따라 변하는 무선 환경에 대한 데이터를 분석한 결과를 다룸. 
 <br/>
 
