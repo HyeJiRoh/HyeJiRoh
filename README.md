@@ -1,7 +1,7 @@
 <div align = "center">
 
 <h2>
-Welcome to visit hyeji's GitHub!
+Hi! This is hyeji's GitHub!
 </h2>
 
 <br>
