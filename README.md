@@ -26,6 +26,6 @@ Hello, This is hyeji's GitHub! 👋
 
   <br>
 
-  ![HyeJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeJiRoh&show_icons=true&theme=radical)
+  ![HyeJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeJiRoh&show_icons=true&theme=dracula)
 
 </div>
