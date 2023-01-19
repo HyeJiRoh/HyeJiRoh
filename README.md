@@ -35,7 +35,5 @@ Hello, This is hyeji's GitHub! 👋
   <br>
   <br>
   <br>
-  <br>
-  ![HyeJi's GitHub stats](https://github-readme-stats.vercel.app/api?username=HyeJiRoh&show_icons=true&theme=dracula)
 
 </div>
