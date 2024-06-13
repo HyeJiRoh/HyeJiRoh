@@ -26,12 +26,6 @@
 <br/>
 
   <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HyeJiRoh&layout=compact)](https://github.com/HyeJiRoh/github-readme-stats)-->
-  
-  <h4> 🤩 Today number of visits 🤩</h4>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHyeJiRoh&count_bg=%230A5CF1&title_bg=%23DD0E0E&icon=&icon_color=%23FFCCFC&title=VISIT&edge_flat=false"/></a>
-  <br>
-  <br>  
-  <br>
   <br>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=reparo_x">
 
